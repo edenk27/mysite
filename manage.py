@@ -2,8 +2,7 @@
 """Django's command-line utility for administrative tasks."""
 import os
 import sys
-C:\Users\EdenBenNun\mysite
-
+#new changes
 def main():
     os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'mysite.settings')
     try:
